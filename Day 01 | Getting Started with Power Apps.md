@@ -167,7 +167,7 @@ The application experience is largely driven by the underlying data model and co
 - Business Rules
 - Business Process Flows
 
-<p align="center"><img width="720" height="440" alt="image" src="https://github.com/user-attachments/assets/bc73169a-4c53-45c6-9815-148a95daed29" /></p>
+<p align="center"><img width="700" height="440" alt="image" src="https://github.com/user-attachments/assets/bc73169a-4c53-45c6-9815-148a95daed29" /></p>
 
 Model-Driven Apps are suitable for **structured, data-driven business applications** where the data model and business processes are central to the solution.
 
